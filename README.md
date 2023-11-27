@@ -16,7 +16,7 @@ This project is to solve three questions as listed in the interview task
 
 ## Code:
 - xyz.ipynb
-- 
+
 ## Images:
 - Monthly Growth Rates of MRR and Calendar Purchases
 - MRR for January 2021 to June 2022 as at each month end
